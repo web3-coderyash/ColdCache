@@ -850,13 +850,6 @@ for details.
 
 ---
 
-## 🙏 **Special Thanks**
-
-Special thanks to **@DanTheMan8300** (Developer Relations Engineer at Mysten
-Labs) for helping debug and getting us excited to build on Sui!
-
----
-
 ## 🚀 **Future Vision**
 
 Our hope is that a storefront pushing NFT games will inspire people and game
@@ -891,8 +884,5 @@ across communities.
 <div align="center">
 
 **🎮 Ready to revolutionize gaming? Start building on ColdCache today! 🎮**
-
-[![Deploy Now](https://img.shields.io/badge/🚀_Deploy_Now-Vercel-black?style=for-the-badge)](https://vercel.com/new/clone?repository-url=https://github.com/smuushi/ethglobalny2025-dvs)
-[![View Demo](https://img.shields.io/badge/🌐_View_Demo-coldcache.xyz-blue?style=for-the-badge)](https://www.coldcache.xyz)
 
 </div>
